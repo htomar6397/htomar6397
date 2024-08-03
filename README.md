@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Tomar</h1>
-<h3 align="center">A passionate Full Stack developer from India looking for Remote Opportunities </h3>
+<h3 align="center">A passionate Software developer from India looking for Remote Opportunities </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=htomar6397&label=Profile%20views&color=0e75b6&style=flat" alt="htomar6397" /> </p>
 
