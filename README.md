@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Blockchain , Web3**
 
-- 📝 I regularly write articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/htomarec8c/articles)
+- 📝 I wrote articles on [GeeksForGeeks](https://auth.geeksforgeeks.org/user/htomarec8c/articles)
 
 - 💬 Ask me about **React, DSA and API handling**
 
@@ -15,8 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mayanktoma63512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanktoma63512" height="30" width="40" /></a>
+<a href="https://codolio.com/profile/htomar6397" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="htomar6397" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mayank-tomar-10a049233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayank-tomar-10a049233" height="30" width="40" /></a>
+<a href="https://twitter.com/mayanktoma63512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mayanktoma63512" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26542813" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="26542813" height="30" width="40" /></a>
 <a href="https://codesandbox.com/htomar6397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="htomar6397" height="30" width="40" /></a>
 <a href="https://medium.com/@htomar6397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@htomar6397" height="30" width="40" /></a>
